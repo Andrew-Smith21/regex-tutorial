@@ -1,10 +1,15 @@
-# Title (replace with your title)
+# Regex Tutorial
 
-Introductory paragraph (replace this with your text)
+Regex is an abbreviation for "regular expressions." They make it easier to search for specific 
+sections of a text by describing a pattern of characters to look for. Regex can be applied to many
+different programming languages, and are useful for input validation, finding and replacing characters, etc.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+A regex will be examined below that can be used to validate an email address. Each component of the regex will be explain in its corresponding section. 
+
+Regex: Matching an Email
+`/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`
 
 ## Table of Contents
 
