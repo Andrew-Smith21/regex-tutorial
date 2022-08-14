@@ -27,10 +27,26 @@ Regex: Matching an Email
 
 ## Regex Components
 
-### Anchors - ^ and $
+### Anchors
 
-`^` 
+^
 
+`^([a-z0-9_\.-])` Matches any string that begins with the characters specified between the brackets
+
+Example:
+
+`^andrew-smith` This will match any string that begins with "andrew-smith"
+$
+
+`([a-z\.]{2,6})$` Matches any string that ends with the characters specified between the brackets
+
+Example:
+
+`97$` This will match any string that ends with "97"
+
+^ $
+
+`andrew45` This will match only a string that is exactly "andrew45"
 
 
 ### Quantifiers
