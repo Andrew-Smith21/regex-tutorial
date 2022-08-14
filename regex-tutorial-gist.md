@@ -51,7 +51,7 @@ Example:
 
 ### Quantifiers
 
-+
+\+
 
 `([a-z0-9_\.-]+)` Matches any string that has the characters between the brackets followed by one or more characters
 
