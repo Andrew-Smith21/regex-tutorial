@@ -63,9 +63,6 @@ Example:
 
 `([a-z\.]{2,6})` This will match any string that has the characters between the brackets follow by at least two and up to six characters
 
-
-### OR Operator
-
 ### Character Classes
 
 ### Flags
