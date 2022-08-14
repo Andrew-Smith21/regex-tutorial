@@ -29,7 +29,7 @@ Regex: Matching an Email
 
 ### Anchors - ^ and $
 
-
+`^` 
 
 
 
