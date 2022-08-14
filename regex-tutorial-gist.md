@@ -27,7 +27,11 @@ Regex: Matching an Email
 
 ## Regex Components
 
-### Anchors
+### Anchors - ^ and $
+
+
+
+
 
 ### Quantifiers
 
