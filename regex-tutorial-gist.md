@@ -35,7 +35,7 @@ Regex: Matching an Email
 
 Example:
 
-`^andrew-smith` This will match any string that begins with "andrew-smith"
+`^andrew-smith` This will match any string that begins with "andrew-smith"  
 $
 
 `([a-z\.]{2,6})$` Matches any string that ends with the characters specified between the brackets
