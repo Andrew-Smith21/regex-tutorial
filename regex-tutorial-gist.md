@@ -46,10 +46,23 @@ Example:
 
 ^ $
 
-`andrew45` This will match only a string that is exactly "andrew45"
+`andrew45` This will match only a string that is exactly "andrew45"  
 
 
 ### Quantifiers
+
++
+
+`([a-z0-9_\.-]+)` Matches any string that has the characters between the brackets followed by one or more characters
+
+Example:
+
+`charlie+` This will match any string that has "charlie" followed by at least one character  
+
+{}
+
+`([a-z\.]{2,6})` This will match any string that has the characters between the brackets follow by at least two and up to six characters
+
 
 ### OR Operator
 
