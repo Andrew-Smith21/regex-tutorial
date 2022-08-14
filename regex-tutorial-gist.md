@@ -46,7 +46,7 @@ Example:
 
 ^ $
 
-`andrew45` This will match only a string that is exactly "andrew45"  
+`^andrew45$` This will match only a string that is exactly "andrew45"  
 
 
 ### Quantifiers
@@ -64,6 +64,14 @@ Example:
 `([a-z\.]{2,6})` This will match any string that has the characters between the brackets follow by at least two and up to six characters
 
 ### Character Classes
+
+\d
+
+`\.` Matches a literal "." character  
+
+Example:
+
+`[a-z]\.[a-z]` This will match any pair of strings with a "." between them
 
 ### Flags
 
