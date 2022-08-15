@@ -90,8 +90,6 @@ Example:
 
 `[a-z]` This will match a string that contains any lowercase letter from a to z
 
-### Greedy and Lazy Match
-
 ### Boundaries
 
 ### Back-references
