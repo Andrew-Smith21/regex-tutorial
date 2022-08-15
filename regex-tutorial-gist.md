@@ -73,8 +73,6 @@ Example:
 
 `[a-z]\.[a-z]` This will match any pair of strings with a "." between them
 
-### Flags
-
 ### Grouping and Capturing
 
 ### Bracket Expressions
