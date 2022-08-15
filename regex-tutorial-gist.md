@@ -90,12 +90,7 @@ Example:
 
 `[a-z]` This will match a string that contains any lowercase letter from a to z
 
-### Boundaries
-
-### Back-references
-
-### Look-ahead and Look-behind
-
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Andrew Smith is a student at Vanderbilt's Full Stack Developer Bootcamp.
+Github Link: https://github.com/Andrew-Smith21
