@@ -75,7 +75,20 @@ Example:
 
 ### Grouping and Capturing
 
+()
+
+`([a-z0-9_\.-]+)` Groups together everything that comes before the @ symbol in our email. This allows us to manipulate this part of our data using the respective 
+coding language we are using
+
 ### Bracket Expressions
+
+[]
+
+`[a-z0-9_\.-]` Matches a string that contains any of the specified characters between the brackets
+
+Example:
+
+`[a-z]` This will match a string that contains any lowercase letter from a to z
 
 ### Greedy and Lazy Match
 
